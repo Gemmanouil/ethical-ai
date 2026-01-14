@@ -1,16 +1,4 @@
-Objective: Extend your solution and practice independent problem-solving.
-
-    Modify your palindrome function to:
-
-        Ignore spaces and punctuation.
-
-        Be case-insensitive.
-
-        Return the position where the string stops being a palindrome (if not one).
- i have already done that : 
-
-
- package main
+package main
 
 import (
 	"fmt"
@@ -57,14 +45,3 @@ func main() {
 		fmt.Println(ok, "|", clean)
 	}
 }
-
-    After your first attempt, ask AI:
-
-"I modified my palindrome function to handle more cases.
-Did I miss anything? Can it be more efficient?" 
-Ignore spaces and punctuation yes 
-Be case‑insensitive yes 
-Return the position where the string stops being a palindrome yes 
-
-    Reflect on what AI added that you didn't consider initially.
-    nothing ... i did everything by myself 
